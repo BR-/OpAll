@@ -1,0 +1,6 @@
+name: OpAll
+main: me.br_.minecraft.bukkit.opall.OAMain
+version: 0.1
+author: BR_
+description: >
+             Op all players.
